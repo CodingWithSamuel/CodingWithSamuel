@@ -2,7 +2,7 @@
 
 
 📚 Atualmente estou aprendendo js! <br>
-📫 Contato: samu1800.so@gmail.com
+
 ##
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingWithSamuel)](https://github.com/CodingWithSamuel/github-readme-stats)
 ##
