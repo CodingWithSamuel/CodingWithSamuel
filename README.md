@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, Eu sou o Samuel Oliveira, Desenvolvedor Web e Estudante de Ciências da Computação 👋
 
 
 - 📚 Atualmente estou aprendendo js!
