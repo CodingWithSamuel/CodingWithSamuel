@@ -24,5 +24,6 @@
 </div> 
 
  ##
+ <!--
 <img src="https://raw.githubusercontent.com/CodingWithSamuel/CodingWithSamuel/output/snake.svg" alt="Snake animation" />
-
+-->
